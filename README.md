@@ -8,6 +8,7 @@ Esse é um challenge inspirado no #100daysofcode, uma versão adaptada para o es
 A regra é a mesma: estudar no mínimo 1h por dia. <p>
 
 Os projetos serão separados por pastas aqui no repositório e o que foi estudado e o tempo serão atualizados na tabela abaixo.
+Vale lembrar que nem todos os dias serão postados projetos novos. O objetivo não é 100 projetos, e sim 100 dias de estudo. Portanto atualizações feitas em apps, novos aprendizados, novas tecnologias e afins contarão como estudo válido para o dia em questão.
 
 ## Metas:
 
@@ -20,8 +21,8 @@ Os projetos serão separados por pastas aqui no repositório e o que foi estudad
 
 |Dia|Estudos|Tempo|
 | -------- | ----------------- | -------- |
-|1| UI Clone - FitnessApp | 1h30 |
-|2|  | |
+|1| Começo do UI Clone - FitnessApp | 1h30 |
+|2| Atualizações feitas no app de [Pokédex com MobX](https://github.com/feliper2002/pokedex-flutter-mobx) | 2h30 |
 |3|  | |
 |4|  | |
 |5|  | |
