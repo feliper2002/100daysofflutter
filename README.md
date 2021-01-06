@@ -7,7 +7,7 @@
 Esse é um challenge inspirado no #100daysofcode, uma versão adaptada para o estudo sobre Flutter ao longo de 100 dias. <p>
 A regra é a mesma: estudar no mínimo 1h por dia. <p>
 
-Os projetos serão separados por pastas aqui no repositório e o que foi estudado e o tempo serão atualizados na tabela abaixo.
+Os projetos serão separados por pastas aqui no repositório e o que foi estudado e o tempo serão atualizados na tabela abaixo. <p>
 Vale lembrar que nem todos os dias serão postados projetos novos. O objetivo não é 100 projetos, e sim 100 dias de estudo. Portanto atualizações feitas em apps, novos aprendizados, novas tecnologias e afins contarão como estudo válido para o dia em questão.
 
 ## Metas:
