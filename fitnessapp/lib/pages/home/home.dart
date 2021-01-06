@@ -14,16 +14,29 @@ class _FitnessAppState extends State<FitnessApp> {
       appBar: AppBar(
         title: Text('Fitness'),
         actions: [
-          IconButton(icon: Icon(Icons.search), onPressed: () {},),
+          IconButton(
+            icon: Icon(Icons.search),
+            onPressed: () {},
+          ),
         ],
       ),
       body: Padding(
         padding: const EdgeInsets.all(20),
         child: Column(
           children: [
-            ExrCard(description: Text('Abdominais - Séries', style: cardDescription,),),
+            ExrCard(
+              description: Text(
+                'Abdominais - Séries',
+                style: cardDescription,
+              ),
+            ),
             SizedBox(height: 10),
-            ExrCard(description: Text('Polichimelo - Séries', style: cardDescription,),),
+            ExrCard(
+              description: Text(
+                'Polichimelo - Séries',
+                style: cardDescription,
+              ),
+            ),
           ],
         ),
       ),
