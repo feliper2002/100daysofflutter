@@ -15,108 +15,116 @@ Vale lembrar que nem todos os dias serão postados projetos novos. O objetivo n�
 - [ ] Estudar Dart & Flutter <p>
 - [ ] Criar interfaces com flutter <p>
 - [ ] Estudar gerenciamento de estado <p>
+- [ ] Estudar sobre injeção de dependências
+- [ ] Estudar sobre rotas dinâmicas
 - [ ] Tentar criar widgets próprios <p>
+
+## Projetinhos
+
+- [Portfólio](https://github.com/feliper2002/felipe.developer) [Link do site](https://feliper.dev/) <p>
+- [Pokédex - MobX](https://github.com/feliper2002/pokedex-flutter-mobx) <p>
+- [App de lista de contatos](https://github.com/feliper2002/Lista-de-contatos) <p>
 
 <h2> 🚀 Tabela de Estudos </h2>
 
-| Dia | Estudos                                                                                               | Tempo |
-| --- | ----------------------------------------------------------------------------------------------------- | ----- |
-| 1   | Começo do UI Clone - FitnessApp                                                                       | 1h30  |
-| 2   | Atualizações feitas no app de [Pokédex com MobX](https://github.com/feliper2002/pokedex-flutter-mobx) | 2h30  |
-| 3   | Estudos de Dart + Alterações no site do portfólio                                                     | 2h    |
-| 4   | [App de lista de contatos](https://github.com/feliper2002/Lista-de-contatos) utilizando ListView      | 3h    |
-| 5   |                                                                                                       |       |
-| 6   |                                                                                                       |       |
-| 7   |                                                                                                       |       |
-| 8   |                                                                                                       |       |
-| 9   |                                                                                                       |       |
-| 10  |                                                                                                       |       |
-| 11  |                                                                                                       |       |
-| 12  |                                                                                                       |       |
-| 13  |                                                                                                       |       |
-| 14  |                                                                                                       |       |
-| 15  |                                                                                                       |       |
-| 16  |                                                                                                       |       |
-| 17  |                                                                                                       |       |
-| 18  |                                                                                                       |       |
-| 19  |                                                                                                       |       |
-| 20  |                                                                                                       |       |
-| 22  |                                                                                                       |       |
-| 23  |                                                                                                       |       |
-| 24  |                                                                                                       |       |
-| 25  |                                                                                                       |       |
-| 26  |                                                                                                       |       |
-| 27  |                                                                                                       |       |
-| 28  |                                                                                                       |       |
-| 29  |                                                                                                       |       |
-| 30  |                                                                                                       |       |
-| 31  |                                                                                                       |       |
-| 32  |                                                                                                       |       |
-| 33  |                                                                                                       |       |
-| 34  |                                                                                                       |       |
-| 35  |                                                                                                       |       |
-| 36  |                                                                                                       |       |
-| 37  |                                                                                                       |       |
-| 38  |                                                                                                       |       |
-| 39  |                                                                                                       |       |
-| 40  |                                                                                                       |       |
-| 41  |                                                                                                       |       |
-| 42  |                                                                                                       |       |
-| 43  |                                                                                                       |       |
-| 44  |                                                                                                       |       |
-| 45  |                                                                                                       |       |
-| 46  |                                                                                                       |       |
-| 47  |                                                                                                       |       |
-| 48  |                                                                                                       |       |
-| 49  |                                                                                                       |       |
-| 50  |                                                                                                       |       |
-| 51  |                                                                                                       |       |
-| 52  |                                                                                                       |       |
-| 53  |                                                                                                       |       |
-| 54  |                                                                                                       |       |
-| 55  |                                                                                                       |       |
-| 56  |                                                                                                       |       |
-| 57  |                                                                                                       |       |
-| 58  |                                                                                                       |       |
-| 59  |                                                                                                       |       |
-| 60  |                                                                                                       |       |
-| 61  |                                                                                                       |       |
-| 62  |                                                                                                       |       |
-| 63  |                                                                                                       |       |
-| 64  |                                                                                                       |       |
-| 65  |                                                                                                       |       |
-| 66  |                                                                                                       |       |
-| 67  |                                                                                                       |       |
-| 68  |                                                                                                       |       |
-| 69  |                                                                                                       |       |
-| 70  |                                                                                                       |       |
-| 71  |                                                                                                       |       |
-| 72  |                                                                                                       |       |
-| 73  |                                                                                                       |       |
-| 74  |                                                                                                       |       |
-| 75  |                                                                                                       |       |
-| 76  |                                                                                                       |       |
-| 77  |                                                                                                       |       |
-| 78  |                                                                                                       |       |
-| 79  |                                                                                                       |       |
-| 80  |                                                                                                       |       |
-| 81  |                                                                                                       |       |
-| 82  |                                                                                                       |       |
-| 83  |                                                                                                       |       |
-| 84  |                                                                                                       |       |
-| 85  |                                                                                                       |       |
-| 86  |                                                                                                       |       |
-| 87  |                                                                                                       |       |
-| 88  |                                                                                                       |       |
-| 89  |                                                                                                       |       |
-| 90  |                                                                                                       |       |
-| 91  |                                                                                                       |       |
-| 92  |                                                                                                       |       |
-| 93  |                                                                                                       |       |
-| 94  |                                                                                                       |       |
-| 95  |                                                                                                       |       |
-| 96  |                                                                                                       |       |
-| 97  |                                                                                                       |       |
-| 98  |                                                                                                       |       |
-| 99  |                                                                                                       |       |
-| 100 |                                                                                                       |       |
+| Dia | Estudos                                                                                                                        | Tempo |
+| --- | ------------------------------------------------------------------------------------------------------------------------------ | ----- |
+| 1   | Começo do UI Clone - FitnessApp                                                                                                | 1h30  |
+| 2   | Atualizações feitas no app de [Pokédex com MobX](https://github.com/feliper2002/pokedex-flutter-mobx)                          | 2h30  |
+| 3   | Estudos de Dart + Alterações no site do portfólio                                                                              | 2h    |
+| 4   | [App de lista de contatos](https://github.com/feliper2002/Lista-de-contatos) utilizando ListView                               | 3h    |
+| 5   | Model dos contatos do App de Lista de Contatos + Iniciando estudos sobre o [Modular](https://pub.dev/packages/flutter_modular) | 3h30  |
+| 6   |                                                                                                                                |       |
+| 7   |                                                                                                                                |       |
+| 8   |                                                                                                                                |       |
+| 9   |                                                                                                                                |       |
+| 10  |                                                                                                                                |       |
+| 11  |                                                                                                                                |       |
+| 12  |                                                                                                                                |       |
+| 13  |                                                                                                                                |       |
+| 14  |                                                                                                                                |       |
+| 15  |                                                                                                                                |       |
+| 16  |                                                                                                                                |       |
+| 17  |                                                                                                                                |       |
+| 18  |                                                                                                                                |       |
+| 19  |                                                                                                                                |       |
+| 20  |                                                                                                                                |       |
+| 22  |                                                                                                                                |       |
+| 23  |                                                                                                                                |       |
+| 24  |                                                                                                                                |       |
+| 25  |                                                                                                                                |       |
+| 26  |                                                                                                                                |       |
+| 27  |                                                                                                                                |       |
+| 28  |                                                                                                                                |       |
+| 29  |                                                                                                                                |       |
+| 30  |                                                                                                                                |       |
+| 31  |                                                                                                                                |       |
+| 32  |                                                                                                                                |       |
+| 33  |                                                                                                                                |       |
+| 34  |                                                                                                                                |       |
+| 35  |                                                                                                                                |       |
+| 36  |                                                                                                                                |       |
+| 37  |                                                                                                                                |       |
+| 38  |                                                                                                                                |       |
+| 39  |                                                                                                                                |       |
+| 40  |                                                                                                                                |       |
+| 41  |                                                                                                                                |       |
+| 42  |                                                                                                                                |       |
+| 43  |                                                                                                                                |       |
+| 44  |                                                                                                                                |       |
+| 45  |                                                                                                                                |       |
+| 46  |                                                                                                                                |       |
+| 47  |                                                                                                                                |       |
+| 48  |                                                                                                                                |       |
+| 49  |                                                                                                                                |       |
+| 50  |                                                                                                                                |       |
+| 51  |                                                                                                                                |       |
+| 52  |                                                                                                                                |       |
+| 53  |                                                                                                                                |       |
+| 54  |                                                                                                                                |       |
+| 55  |                                                                                                                                |       |
+| 56  |                                                                                                                                |       |
+| 57  |                                                                                                                                |       |
+| 58  |                                                                                                                                |       |
+| 59  |                                                                                                                                |       |
+| 60  |                                                                                                                                |       |
+| 61  |                                                                                                                                |       |
+| 62  |                                                                                                                                |       |
+| 63  |                                                                                                                                |       |
+| 64  |                                                                                                                                |       |
+| 65  |                                                                                                                                |       |
+| 66  |                                                                                                                                |       |
+| 67  |                                                                                                                                |       |
+| 68  |                                                                                                                                |       |
+| 69  |                                                                                                                                |       |
+| 70  |                                                                                                                                |       |
+| 71  |                                                                                                                                |       |
+| 72  |                                                                                                                                |       |
+| 73  |                                                                                                                                |       |
+| 74  |                                                                                                                                |       |
+| 75  |                                                                                                                                |       |
+| 76  |                                                                                                                                |       |
+| 77  |                                                                                                                                |       |
+| 78  |                                                                                                                                |       |
+| 79  |                                                                                                                                |       |
+| 80  |                                                                                                                                |       |
+| 81  |                                                                                                                                |       |
+| 82  |                                                                                                                                |       |
+| 83  |                                                                                                                                |       |
+| 84  |                                                                                                                                |       |
+| 85  |                                                                                                                                |       |
+| 86  |                                                                                                                                |       |
+| 87  |                                                                                                                                |       |
+| 88  |                                                                                                                                |       |
+| 89  |                                                                                                                                |       |
+| 90  |                                                                                                                                |       |
+| 91  |                                                                                                                                |       |
+| 92  |                                                                                                                                |       |
+| 93  |                                                                                                                                |       |
+| 94  |                                                                                                                                |       |
+| 95  |                                                                                                                                |       |
+| 96  |                                                                                                                                |       |
+| 97  |                                                                                                                                |       |
+| 98  |                                                                                                                                |       |
+| 99  |                                                                                                                                |       |
+| 100 |                                                                                                                                |       |
